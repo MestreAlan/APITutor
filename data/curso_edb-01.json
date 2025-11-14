@@ -1,0 +1,43 @@
+{
+  "course_id": "edb-01",
+  "title": "Estrutura de Dados",
+  "description": "Curso introdutório de Estruturas de Dados.",
+  "modules": [
+    {
+      "module_id": "mod-1",
+      "title": "Módulo Único - Estrutura de Dados",
+      "lessons": [
+        {
+          "lesson_id": "L1",
+          "title": "Introdução às Estruturas de Dados",
+          "video_url": "https://meusvideos.com/edb/intro.mp4",
+          "pedagogical_id": 1
+        },
+        {
+          "lesson_id": "L2",
+          "title": "Listas, Pilhas e Filas",
+          "video_url": "https://meusvideos.com/edb/listas.mp4",
+          "pedagogical_id": 2
+        },
+        {
+          "lesson_id": "L3",
+          "title": "Deque e Estruturas Sequenciais",
+          "video_url": "https://meusvideos.com/edb/deque.mp4",
+          "pedagogical_id": 3
+        },
+        {
+          "lesson_id": "L4",
+          "title": "Árvores",
+          "video_url": "https://meusvideos.com/edb/arvores.mp4",
+          "pedagogical_id": 4
+        },
+        {
+          "lesson_id": "L5",
+          "title": "Grafos",
+          "video_url": "https://meusvideos.com/edb/grafos.mp4",
+          "pedagogical_id": 5
+        }
+      ]
+    }
+  ]
+}

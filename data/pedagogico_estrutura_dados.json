@@ -1,0 +1,66 @@
+{
+  "dependencias": [
+    "L1", [],
+    "L2", ["L1"],
+    "L3", ["L2"],
+    "L4", ["L3"],
+    "L5", ["L4"]
+  ],
+
+  "atividades": [
+    {
+      "id": "L1",
+      "codigo": 1,
+      "titulo": "Abertura da Aula",
+      "contexto": [
+        "Olá! Eu sou o RoboTutor. Vamos começar nossa jornada em Estruturas de Dados.",
+        "Bem-vindo! Hoje vamos explorar conceitos fundamentais de Estruturas de Dados.",
+        "Saudações! Preparado para aprender Estruturas de Dados com uma metodologia inteligente?"
+      ]
+    },
+
+    {
+      "id": "L2",
+      "codigo": 3,
+      "titulo": "Introdução às Estruturas de Dados",
+      "contexto": [
+        "Estruturas de dados são formas organizadas de armazenar informações. Você já ouviu falar em listas, pilhas ou filas?",
+        "Toda aplicação precisa organizar dados. Estruturas de dados ajudam nisso. Você sabe para que serve uma pilha ou uma fila?",
+        "Vamos dar um passo inicial: estruturas de dados são essenciais para desempenho. Já viu uma lista encadeada?"
+      ]
+    },
+
+    {
+      "id": "L3",
+      "codigo": 3,
+      "titulo": "Listas, Pilhas e Filas",
+      "contexto": [
+        "As listas permitem armazenar elementos de forma sequencial. Pilhas seguem o modelo LIFO e filas o modelo FIFO. Você já usou alguma dessas estruturas?",
+        "Pilhas são úteis para desfazer ações e filas servem para controlar prioridades e ordem de chegada.",
+        "Cada estrutura resolve um problema diferente. Você consegue pensar em situações onde filas são usadas?"
+      ]
+    },
+
+    {
+      "id": "L4",
+      "codigo": 3,
+      "titulo": "Deque e Estruturas Sequenciais",
+      "contexto": [
+        "Um deque é uma estrutura versátil: inserção e remoção nas duas extremidades.",
+        "Deques englobam listas, filas e pilhas em um único modelo mais flexível.",
+        "Você acha útil poder inserir e remover no início e no fim?"
+      ]
+    },
+
+    {
+      "id": "L5",
+      "codigo": 3,
+      "titulo": "Árvores",
+      "contexto": [
+        "Árvores representam hierarquias e são usadas em sistemas de arquivos.",
+        "A árvore binária é uma estrutura muito útil para buscas rápidas.",
+        "Você conhece a diferença entre árvore binária de busca e heap?"
+      ]
+    }
+  ]
+}
