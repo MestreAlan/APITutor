@@ -125,56 +125,158 @@
         {
           "lesson_id": "L18",
           "title": "EDB1 IMD UFRN - Busca Binária",
-          "video_url": "https://www.youtube.com/watch?v=PP-8qdXbrB0&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=38&pp=iAQB",
+          "video_url": "https://www.youtube.com/watch?v=ufxEf86w9bY&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=18&pp=iAQB",
           "pedagogical_id": 18
         },
         {
           "lesson_id": "L19",
           "title": "EDB1 IMD UFRN - (MEET) Duvidas Problemas de Busca",
-          "video_url": "https://www.youtube.com/watch?v=PP-8qdXbrB0&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=38&pp=iAQB",
+          "video_url": "https://www.youtube.com/watch?v=PMJw0YXOp7M&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=19&pp=iAQB",
           "pedagogical_id": 19
         }
       ]
     },
     {
-      "module_id": "mod-3",
-      "title": "Módulo 3: Estruturas Lineares II - Pilhas e Filas",
+      "module_id": "mod-4",
+      "title": "Módulo 4: Análise de Algoritmos",
       "lessons": [
         {
-          "lesson_id": "L13",
-          "title": "TAD Pilha (Implementação Sequencial)",
-          "video_url": "https://meusvideos.com/edb/pilha-1.mp4",
-          "pedagogical_id": 13
+          "lesson_id": "L20",
+          "title": "EDB1 IMD UFRN - Análise de Algoritmos",
+          "video_url": "https://www.youtube.com/watch?v=qQ7JsACgV7g&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=20&pp=iAQB",
+          "pedagogical_id": 20
         },
         {
-          "lesson_id": "L14",
-          "title": "TAD Pilha (Implementação Dinâmica)",
-          "video_url": "https://meusvideos.com/edb/pilha-2.mp4",
-          "pedagogical_id": 14
+          "lesson_id": "L21",
+          "title": "EDB1 IMD UFRN - Análise de Desempenho (1/3)",
+          "video_url": "https://www.youtube.com/watch?v=PmoRKdYEb7Y&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=21&pp=iAQB",
+          "pedagogical_id": 21
         },
         {
-          "lesson_id": "L15",
-          "title": "TAD Fila (Implementação Sequencial Circular)",
-          "video_url": "https://meusvideos.com/edb/fila-1.mp4",
-          "pedagogical_id": 15
+          "lesson_id": "L22",
+          "title": "EDB1 IMD UFRN - Análise de Desempenho (2/3)",
+          "video_url": "https://www.youtube.com/watch?v=k02zf4kVw-M&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=22&pp=iAQB",
+          "pedagogical_id": 22
         },
         {
-          "lesson_id": "L16",
-          "title": "TAD Fila (Implementação Dinâmica)",
-          "video_url": "https://meusvideos.com/edb/fila-2.mp4",
-          "pedagogical_id": 16
+          "lesson_id": "L23",
+          "title": "EDB1 IMD UFRN - Análise de Desempenho (3/3)",
+          "video_url": "https://www.youtube.com/watch?v=opYpcKeqDIM&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=23&pp=iAQB",
+          "pedagogical_id": 23
+        },
+        {
+          "lesson_id": "L24",
+          "title": "EDB1 IMD UFRN - Análise de Corretude",
+          "video_url": "https://www.youtube.com/watch?v=DOHHmbRq2Fs&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=24&pp=iAQB",
+          "pedagogical_id": 24
+        },
+        {
+          "lesson_id": "L25",
+          "title": "EDB1 IMD UFRN - (MEET) Analise de Algoritmos",
+          "video_url": "https://www.youtube.com/watch?v=_XQoq-09St8&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=25&pp=iAQB",
+          "pedagogical_id": 25
         }
       ]
     },
     {
-      "module_id": "mod-4",
-      "title": "Módulo 4: Algoritmos de Ordenação e Busca",
+      "module_id": "mod-5",
+      "title": "Módulo 5: Problema de Ordenação",
       "lessons": [
         {
-          "lesson_id": "L17",
-          "title": "EDB1 IMD UFRN: Ordenação por Seleção ou Inserção (1/2)",
-          "video_url": "http://www.youtube.com/watch?v=cItMITJOrBM",
-          "pedagogical_id": 17
+          "lesson_id": "L26",
+          "title": "EDB1 IMD UFRN - Problema de Ordenação",
+          "video_url": "https://www.youtube.com/watch?v=dxMxbcoeVGk&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=26&pp=iAQB",
+          "pedagogical_id": 26
+        },
+        {
+          "lesson_id": "L27",
+          "title": "EDB1 IMD UFRN - Avaliando se uma sequência é ordenada",
+          "video_url": "https://www.youtube.com/watch?v=m45K18BfkoM&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=27&pp=iAQB",
+          "pedagogical_id": 27
+        },
+        {
+          "lesson_id": "L28",
+          "title": "EDB1 IMD UFRN - Ordenação por Bolha",
+          "video_url": "https://www.youtube.com/watch?v=nUr-PSRYa70&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=28&pp=iAQB0gcJCQsKAYcqIYzv",
+          "pedagogical_id": 28
+        },
+        {
+          "lesson_id": "L29",
+          "title": "EDB1 IMD UFRN - Ordenação por Seleção ou Inserção (1/2)",
+          "video_url": "https://www.youtube.com/watch?v=cItMITJOrBM&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=29&pp=iAQB",
+          "pedagogical_id": 29
+        },
+        {
+          "lesson_id": "L30",
+          "title": "EDB1 IMD UFRN - Ordenação por Seleção ou Inserção (2/2)",
+          "video_url": "https://www.youtube.com/watch?v=c0EXEgAQgmE&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=30&pp=iAQB",
+          "pedagogical_id": 30
+        },
+        {
+          "lesson_id": "L31",
+          "title": "EDB1 IMD UFRN - Ordenação por Partição (QuickSort)",
+          "video_url": "https://www.youtube.com/watch?v=HzS_2ZmL--U&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=31&pp=iAQB",
+          "pedagogical_id": 31
+        },
+        {
+          "lesson_id": "L32",
+          "title": "EDB1 IMD UFRN - Ordenação por Junção (MergeSort)",
+          "video_url": "https://www.youtube.com/watch?v=PSRNCF2ZWJc&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=32&pp=iAQB",
+          "pedagogical_id": 32
+        }
+      ]
+    },
+    {
+      "module_id": "mod-6",
+      "title": "Módulo 6: TAD II",
+      "lessons": [
+        {
+          "lesson_id": "L33",
+          "title": "EDB1 IMD UFRN - TAD Sequencia",
+          "video_url": "https://www.youtube.com/watch?v=QFMdNProPaw&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=33&pp=iAQB",
+          "pedagogical_id": 33
+        },
+        {
+          "lesson_id": "L34",
+          "title": "EDB1 IMD UFRN - TAD Sequencia ED Vetor",
+          "video_url": "https://www.youtube.com/watch?v=dH1vvok-KTI&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=34&pp=iAQB0gcJCQsKAYcqIYzv",
+          "pedagogical_id": 34
+        },
+        {
+          "lesson_id": "L35",
+          "title": "EDB1 IMD UFRN (2020.6): TAD Sequencia ED Vetor Circular",
+          "video_url": "https://www.youtube.com/watch?v=064S6n0_xcc&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=35&pp=iAQB",
+          "pedagogical_id": 35
+        },
+        {
+          "lesson_id": "L36",
+          "title": "EDB1 IMD UFRN - ED Lista Ligada (1/3)",
+          "video_url": "https://www.youtube.com/watch?v=8AkLrPoefnQ&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=36&pp=iAQB",
+          "pedagogical_id": 36
+        },
+        {
+          "lesson_id": "L37",
+          "title": "EDB1 IMD UFRN - ED Lista Ligada (2/3)",
+          "video_url": "https://www.youtube.com/watch?v=vT2ZnhOtI0E&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=37&pp=iAQB",
+          "pedagogical_id": 37
+        },
+        {
+          "lesson_id": "L38",
+          "title": "EDB1 IMD UFRN - ED Lista Ligada (3/3)",
+          "video_url": "https://www.youtube.com/watch?v=PP-8qdXbrB0&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=38&pp=iAQB",
+          "pedagogical_id": 38
+        },
+        {
+          "lesson_id": "L39",
+          "title": "EDB1 IMD UFRN - Lista Duplamente Ligada e Lista Ligada com Início e Fim",
+          "video_url": "https://www.youtube.com/watch?v=wYfR1oMuLV0&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=39&pp=iAQB",
+          "pedagogical_id": 39
+        },
+        {
+          "lesson_id": "L40",
+          "title": "EDB1 IMD UFRN - TAD Conjunto ED Tabela de Dispersão",
+          "video_url": "https://www.youtube.com/watch?v=P7pXz3ziDnI&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=40&pp=iAQB",
+          "pedagogical_id": 40
         }
       ]
     }
