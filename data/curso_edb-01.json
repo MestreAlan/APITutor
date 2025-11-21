@@ -1,41 +1,131 @@
 {
   "course_id": "edb-01",
-  "title": "Estrutura de Dados",
-  "description": "Curso introdutório de Estruturas de Dados.",
+  "title": "Estrutura de Dados Básicas 1 (EDB1 IMD UFRN - 2020.6)",
+  "description": "Curso introdutório de Estruturas de Dados, cobrindo conceitos de dados, TADs, estruturas lineares (vetores, listas, pilhas e filas), algoritmos de ordenação e estruturas não-lineares (árvores, grafos e tabelas hash).",
   "modules": [
     {
       "module_id": "mod-1",
-      "title": "Módulo Único - Estrutura de Dados",
+      "title": "Módulo 1: Conceitos Fundamentais, Dados e Tipos Abstratos de Dados (TADs)",
       "lessons": [
         {
           "lesson_id": "L1",
-          "title": "Introdução às Estruturas de Dados",
-          "video_url": "https://meusvideos.com/edb/intro.mp4",
+          "title": "EDB1 IMD UFRN - Dados (Aula 1/3)",
+          "video_url": "http://www.youtube.com/watch?v=LXts1nMlkTU",
           "pedagogical_id": 1
         },
         {
           "lesson_id": "L2",
-          "title": "Listas, Pilhas e Filas",
-          "video_url": "https://meusvideos.com/edb/listas.mp4",
+          "title": "EDB1 IMD UFRN - Dados (Aula 2/3)",
+          "video_url": "http://www.youtube.com/watch?v=XUUHf1PwTHI",
           "pedagogical_id": 2
         },
         {
           "lesson_id": "L3",
-          "title": "Deque e Estruturas Sequenciais",
-          "video_url": "https://meusvideos.com/edb/deque.mp4",
+          "title": "EDB1 IMD UFRN - Dados (Aula 3/3)",
+          "video_url": "http://www.youtube.com/watch?v=xKZuOddVYEA",
           "pedagogical_id": 3
         },
         {
           "lesson_id": "L4",
-          "title": "Árvores",
-          "video_url": "https://meusvideos.com/edb/arvores.mp4",
+          "title": "EDB1 IMD UFRN : Introdução a TAD Conjunto e Sequência",
+          "video_url": "http://www.youtube.com/watch?v=iIIlz8qNVDo",
           "pedagogical_id": 4
         },
         {
           "lesson_id": "L5",
-          "title": "Grafos",
-          "video_url": "https://meusvideos.com/edb/grafos.mp4",
+          "title": "EDB1 IMD UFRN : Introdução a TAD Sequência ED Vetor",
+          "video_url": "http://www.youtube.com/watch?v=QSYsg87mR74",
           "pedagogical_id": 5
+        },
+        {
+          "lesson_id": "L6",
+          "title": "EDB1 IMD UFRN : Linguagens de Programação e Sistema Operacional",
+          "video_url": "http://www.youtube.com/watch?v=APN4_w4pQVo",
+          "pedagogical_id": 6
+        },
+        {
+          "lesson_id": "L7",
+          "title": "EDB1 IMD UFRN : Processos",
+          "video_url": "http://www.youtube.com/watch?v=wLDsUlFCuG8",
+          "pedagogical_id": 7
+        },
+        {
+          "lesson_id": "L8",
+          "title": "EDB1 IMD UFRN : Programa em C",
+          "video_url": "http://www.youtube.com/watch?v=XmHL4EYh-kY",
+          "pedagogical_id": 8
+        },
+        {
+          "lesson_id": "L9",
+          "title": "EDB1 IMD UFRN - Resolução de exercícios de Alocação Estática",
+          "video_url": "http://www.youtube.com/watch?v=ZRrwCum2LPo",
+          "pedagogical_id": 9
+        }
+      ]
+    },
+    {
+      "module_id": "mod-2",
+      "title": "Módulo 2: Estruturas Lineares I - Listas Ligadas",
+      "lessons": [
+        {
+          "lesson_id": "L10",
+          "title": "EDB1 IMD UFRN (2020.6): ED Lista Ligada (1/3)",
+          "video_url": "https://www.youtube.com/watch?v=8AkLrPoefnQ&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=36&pp=iAQB",
+          "pedagogical_id": 10
+        },
+        {
+          "lesson_id": "L11",
+          "title": "EDB1 IMD UFRN (2020.6): ED Lista Ligada (2/3)",
+          "video_url": "https://www.youtube.com/watch?v=vT2ZnhOtI0E&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=37&pp=iAQB",
+          "pedagogical_id": 11
+        },
+        {
+          "lesson_id": "L12",
+          "title": "EDB1 IMD UFRN (2020.6): ED Lista Ligada (3/3)",
+          "video_url": "https://www.youtube.com/watch?v=PP-8qdXbrB0&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=38&pp=iAQB",
+          "pedagogical_id": 12
+        }
+      ]
+    },
+    {
+      "module_id": "mod-3",
+      "title": "Módulo 3: Estruturas Lineares II - Pilhas e Filas",
+      "lessons": [
+        {
+          "lesson_id": "L13",
+          "title": "TAD Pilha (Implementação Sequencial)",
+          "video_url": "https://meusvideos.com/edb/pilha-1.mp4",
+          "pedagogical_id": 13
+        },
+        {
+          "lesson_id": "L14",
+          "title": "TAD Pilha (Implementação Dinâmica)",
+          "video_url": "https://meusvideos.com/edb/pilha-2.mp4",
+          "pedagogical_id": 14
+        },
+        {
+          "lesson_id": "L15",
+          "title": "TAD Fila (Implementação Sequencial Circular)",
+          "video_url": "https://meusvideos.com/edb/fila-1.mp4",
+          "pedagogical_id": 15
+        },
+        {
+          "lesson_id": "L16",
+          "title": "TAD Fila (Implementação Dinâmica)",
+          "video_url": "https://meusvideos.com/edb/fila-2.mp4",
+          "pedagogical_id": 16
+        }
+      ]
+    },
+    {
+      "module_id": "mod-4",
+      "title": "Módulo 4: Algoritmos de Ordenação e Busca",
+      "lessons": [
+        {
+          "lesson_id": "L17",
+          "title": "EDB1 IMD UFRN: Ordenação por Seleção ou Inserção (1/2)",
+          "video_url": "http://www.youtube.com/watch?v=cItMITJOrBM",
+          "pedagogical_id": 17
         }
       ]
     }

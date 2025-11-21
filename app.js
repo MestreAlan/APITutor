@@ -1,4 +1,5 @@
 const express = require('express');
+const cors = require('cors');
 const courseDomain = require('./modules/courseDomain');
 const studentProgress = require('./modules/studentProgress');
 const pedagogical = require('./modules/pedagogicalEngine');
@@ -6,6 +7,7 @@ const pedagogical = require('./modules/pedagogicalEngine');
 const app = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+app.use(cors()); 
 
 // ===============================================
 // GET - Dados do curso + progresso + sugestão
@@ -25,7 +27,7 @@ app.get('/api/course/:courseId/student/:studentId', (req, res) => {
     const progressData = studentProgress.getStudentProgress(studentId, courseId);
     console.log("progressData carregado");
 
-    const suggestion = pedagogical.getNextRecommendedLesson(courseId, progressData);
+    const suggestion = pedagogical.getNextPedagogicalLesson(courseId, progressData);
     console.log("suggestion gerada");
 
     return res.json({

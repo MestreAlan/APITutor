@@ -77,7 +77,7 @@ function registerStudent(studentId, name) {
     student = {
       student_id: studentId,
       name: name,
-      course_id: null,
+      course_id: "edb-01",
       lessons: [],
       last_access: new Date().toISOString()
     };

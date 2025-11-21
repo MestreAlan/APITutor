@@ -1,60 +1,39 @@
 {
   "students": [
     {
-      "student_id": "123",
-      "name": "João",
+      "student_id": "daniel",
+      "name": "Daniel",
       "course_id": "edb-01",
       "lessons": [
+        {
+          "lesson_id": "L5",
+          "status": "visto"
+        },
+        {
+          "lesson_id": "L3",
+          "status": "nao visto"
+        },
+        {
+          "lesson_id": "L1",
+          "status": "visto"
+        },
         {
           "lesson_id": "L2",
           "status": "visto"
         },
         {
-          "lesson_id": "L3",
-          "status": "visto"
-        }
-      ],
-      "last_access": "2025-11-14T18:25:52.597Z"
-    },
-    {
-      "student_id": "999",
-      "name": "Maria",
-      "course_id": "edb-01",
-      "lessons": [],
-      "last_access": "2025-11-14T16:22:11.000Z"
-    },
-    {
-      "student_id": "AL12",
-      "name": "Alan",
-      "course_id": null,
-      "lessons": [],
-      "last_access": "2025-11-14T17:13:23.382Z"
-    },
-    {
-      "student_id": "Alan",
-      "name": "Alan",
-      "course_id": null,
-      "lessons": [],
-      "last_access": "2025-11-14T17:45:37.170Z"
-    },
-    {
-      "student_id": "alan",
-      "name": null,
-      "course_id": "edb-01",
-      "lessons": [],
-      "last_access": "2025-11-14T17:45:51.885Z"
-    },
-    {
-      "student_id": "Alan",
-      "name": null,
-      "course_id": "edb-01",
-      "lessons": [
-        {
           "lesson_id": "L4",
-          "status": "visto"
+          "status": "nao visto"
         }
       ],
-      "last_access": "2025-11-14T17:46:44.350Z"
+      "last_access": "2025-11-21T02:14:53.932Z"
+    },
+    {
+      "student_id": "1",
+      "name": null,
+      "course_id": "edb-01",
+      "lessons": [],
+      "last_access": "2025-11-21T02:07:45.507Z"
     }
   ]
 }
