@@ -39,7 +39,7 @@
         },
         {
           "lesson_id": "L6",
-          "title": "IMD UFRN : Linguagens de Programação e Sistema Operacional",
+          "title": "Linguagens de Programação e Sistema Operacional",
           "video_url": "https://www.youtube.com/watch?v=APN4_w4pQVo&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=6&pp=iAQB",
           "pedagogical_id": 6
         },
@@ -81,13 +81,13 @@
         },
         {
           "lesson_id": "L12",
-          "title": "IMD UFRN : Introdução a TAD Conjunto e Sequência",
+          "title": "Introdução a TAD Conjunto e Sequência",
           "video_url": "https://www.youtube.com/watch?v=iIIlz8qNVDo&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=14&pp=iAQB",
           "pedagogical_id": 12
         },
         {
           "lesson_id": "L13",
-          "title": "IMD UFRN : Introdução a TAD Sequência ED Vetor",
+          "title": "Introdução a TAD Sequência ED Vetor",
           "video_url": "https://www.youtube.com/watch?v=QSYsg87mR74&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=15&pp=iAQB0gcJCQsKAYcqIYzv",
           "pedagogical_id": 13
         }
@@ -219,7 +219,7 @@
         },
         {
           "lesson_id": "L31",
-          "title": "IMD UFRN (2020.6): TAD Sequencia ED Vetor Circular",
+          "title": "TAD Sequencia ED Vetor Circular",
           "video_url": "https://www.youtube.com/watch?v=064S6n0_xcc&list=PLKEE02MA43B93wk3PpJOqJOlqmx2crBHN&index=35&pp=iAQB",
           "pedagogical_id": 31
         },
