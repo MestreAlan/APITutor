@@ -7,53 +7,53 @@
       "lessons": [
         {
           "lesson_id": "L5",
-          "status": "visto"
+          "status": "nao visto"
         },
         {
           "lesson_id": "L3",
-          "status": "visto"
+          "status": "nao visto"
         },
         {
           "lesson_id": "L1",
-          "status": "visto"
+          "status": "nao visto"
         },
         {
           "lesson_id": "L2",
-          "status": "visto"
+          "status": "nao visto"
         },
         {
           "lesson_id": "L4",
-          "status": "visto"
+          "status": "nao visto"
         },
         {
           "lesson_id": "L17",
-          "status": "visto"
+          "status": "nao visto"
         },
         {
           "lesson_id": "L13",
-          "status": "visto"
+          "status": "nao visto"
         },
         {
           "lesson_id": "L14",
-          "status": "visto"
+          "status": "nao visto"
         },
         {
           "lesson_id": "L15",
-          "status": "visto"
+          "status": "nao visto"
         },
         {
           "lesson_id": "L16",
-          "status": "visto"
+          "status": "nao visto"
         }
       ],
-      "last_access": "2025-11-21T20:27:58.998Z"
+      "last_access": "2025-11-21T21:02:53.261Z"
     },
     {
       "student_id": "1",
       "name": null,
       "course_id": "edb-01",
       "lessons": [],
-      "last_access": "2025-11-21T20:27:58.996Z"
+      "last_access": "2025-11-21T21:02:33.741Z"
     }
   ]
 }
