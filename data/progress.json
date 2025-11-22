@@ -11,11 +11,11 @@
         },
         {
           "lesson_id": "L3",
-          "status": "nao visto"
+          "status": "visto"
         },
         {
           "lesson_id": "L1",
-          "status": "nao visto"
+          "status": "visto"
         },
         {
           "lesson_id": "L2",
@@ -23,7 +23,7 @@
         },
         {
           "lesson_id": "L4",
-          "status": "nao visto"
+          "status": "visto"
         },
         {
           "lesson_id": "L17",
@@ -44,16 +44,39 @@
         {
           "lesson_id": "L16",
           "status": "nao visto"
+        },
+        {
+          "lesson_id": "L7",
+          "status": "nao visto"
+        },
+        {
+          "lesson_id": "L6",
+          "status": "visto"
+        },
+        {
+          "lesson_id": "L40",
+          "status": "visto"
+        },
+        {
+          "lesson_id": "L36",
+          "status": "visto"
         }
       ],
-      "last_access": "2025-11-21T21:24:07.346Z"
+      "last_access": "2025-11-22T22:41:42.579Z"
     },
     {
       "student_id": "1",
       "name": null,
       "course_id": "edb-01",
       "lessons": [],
-      "last_access": "2025-11-21T21:24:07.343Z"
+      "last_access": "2025-11-21T22:21:07.493Z"
+    },
+    {
+      "student_id": "julio",
+      "name": "Julio",
+      "course_id": "edb-01",
+      "lessons": [],
+      "last_access": "2025-11-21T21:27:07.506Z"
     }
   ]
 }
